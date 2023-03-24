@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "abdellatif boukarrama",
+      "email": "abdellatifboukarrama@gmail.com",
+      "passeword": "1234567"
+    },
+    {
+      "id": 2,
+      "name": "hamza deuiry",
+      "email": "hamzadeuiry@gmail.com",
+      "passeword": "3434567567"
+    },
+    {
+      "name": "hamza",
+      "email": "aaaa@gmail.com",
+      "password": "111111111111111111111111111111",
+      "conformPassword": "1111111111111111111111111111111111",
+      "id": 3
+    }
+  ]
+}
