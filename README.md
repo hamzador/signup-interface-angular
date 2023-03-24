@@ -9,7 +9,7 @@ and to start server on the port 3000 on localhost run: `json-server --watch db.j
 the server run on: `http://localhost:3000/users`
 
 ## Screen of the sign up interface:
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/hamzador/signup-interface-angular/blob/main/image.jpg?raw=true)
 
 ## Development server
 
