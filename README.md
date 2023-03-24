@@ -2,6 +2,15 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.1.
 
+## To start Json Server (Fak backend) 
+
+run the ommand:  `npm install -g json-server` for get all dependency 
+and to start server on the port 3000 on localhost run: `json-server --watch db.json`
+the server run on: `http://localhost:3000/users`
+
+## Screen of the sign up interface:
+![alt text](https://github.com/hamzador/signup-interface-angular/blob/main/image.jpg?raw=true)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
