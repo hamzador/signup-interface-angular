@@ -8,6 +8,8 @@ run the ommand:  `npm install -g json-server` for get all dependency
 and to start server on the port 3000 on localhost run: `json-server --watch db.json`
 the server run on: `http://localhost:3000/users`
 
+## Screen of the sign up interface:
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 ## Development server
 
